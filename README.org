@@ -1,0 +1,10 @@
+#+TITLE: Seznam za sprasevanje
+#+AUTHOR: Urban Katern
+#+STARTUP: showeverything
+
+* Seznam
+| Datum  | Vprasani             |
+|--------+----------------------|
+| 29. 5. | Jakob, Nik Uran, Vit |
+| 3. 6.  | Tadej                |
+| 5. 6.  | Matej, Danylo        |
