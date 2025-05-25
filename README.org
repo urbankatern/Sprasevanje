@@ -2,7 +2,6 @@
 #+AUTHOR: Urban Katern
 #+STARTUP: showeverything
 
-* Seznam
 | Datum  | Vprasani             |
 |--------+----------------------|
 | 29. 5. | Jakob, Nik Uran, Vit |
