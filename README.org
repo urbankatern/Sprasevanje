@@ -2,8 +2,8 @@
 #+AUTHOR: Urban Katern
 #+STARTUP: showeverything
 
-| Datum  | Vprasani             |
-|--------+----------------------|
-| 29. 5. | Jakob, Nik Uran, Vit |
-| 3. 6.  | Tadej                |
-| 5. 6.  | Matej, Danylo        |
+| Datum  | Vprasani                            |
+|--------+-------------------------------------|
+| 29. 5. | Jakob, Nik Uran, Vit, Bine, Aleksej |
+| 3. 6.  | Tadej                               |
+| 5. 6.  | Matej, Danylo                       |
